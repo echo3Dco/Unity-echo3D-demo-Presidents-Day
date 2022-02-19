@@ -21,7 +21,8 @@ Run the game and click shuffle and stop shuffle to view the different presidents
 * Play in Unity or [build and run the AR application](https://docs.echo3d.co/unity/adding-ar-capabilities#4-build-and-run-the-ar-application)
 
 # Troubleshooting
-See known issues here: https://docs.echo3d.co/unity/troubleshooting
+* If images do not load from echo3D console and you get error: Security key not found or incorrect. Try this: Go to echo3D > console > Security > Secret Key > uncheck “Enable Secret Key”
+* See other known issues here: https://docs.echo3d.co/unity/troubleshooting
 
 # Learn More
 Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
