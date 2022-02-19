@@ -12,13 +12,13 @@ Run the game and click shuffle and stop shuffle to view the different presidents
 
 # Setup
 * Get your echo3D API key for free at [echo3D](https://medium.com/r/?url=https%3A%2F%2Fconsole.echo3d.co%2F%23%2Fauth%2Fregister)
-* Clone the [repo](https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git)
+* Clone the [repo](https://github.com/echo3Dco/Unity-PresidentsDay-echo3D-example)
 * Install the echo3D [Unity SDK](https://docs.echo3d.co/unity/installation)
-* Download the 3D models from the Models folder 
+* Download the 3D models from the Models folder in the project
 * Go to echo3D console and [click "Add to Cloud"](https://docs.echo3d.co/quickstart/add-a-3d-model) and upload the models
-* Open the scene
+* Open the "scene" scene
 * [Set the API key](https://docs.echo3d.co/quickstart/access-the-console) on the echo3D object in the Hierarchy using the the Inspector
-* [Build and run the AR application](https://docs.echo3d.co/unity/adding-ar-capabilities#4-build-and-run-the-ar-application)
+* Play in Unity or [build and run the AR application](https://docs.echo3d.co/unity/adding-ar-capabilities#4-build-and-run-the-ar-application)
 
 # Troubleshooting
 See known issues here: https://docs.echo3d.co/unity/troubleshooting
