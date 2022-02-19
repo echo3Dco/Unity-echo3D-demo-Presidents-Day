@@ -11,20 +11,21 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://consol
 Run the game and click shuffle and stop shuffle to view the different presidents and their fun facts.
 
 # Setup
-
+* Get your echo3D API key for free at [echo3D](https://medium.com/r/?url=https%3A%2F%2Fconsole.echo3d.co%2F%23%2Fauth%2Fregister)
 * Clone the [repo](https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git)
-* Install the echo3D Unity SDK
-* Download the 3D models in Models folder 
-* Go to echo3D console and click "Add to Cloud" and upload the models
+* Install the echo3D [Unity SDK](https://docs.echo3d.co/unity/installation)
+* Download the 3D models from the Models folder 
+* Go to echo3D console and [click "Add to Cloud"](https://docs.echo3d.co/quickstart/add-a-3d-model) and upload the models
 * Open the scene
-* Set the API key in the echo3D.cs script inside the echo3D\echo3D.prefab using the the Inspector
-* Build and run the AR application
+* [Set the API key](https://docs.echo3d.co/quickstart/access-the-console) on the echo3D object in the Hierarchy using the the Inspector
+* [Build and run the AR application](https://docs.echo3d.co/unity/adding-ar-capabilities#4-build-and-run-the-ar-application)
 
 # Troubleshooting
 See known issues here: https://docs.echo3d.co/unity/troubleshooting
 
 # Learn More
 Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
+
 # Support
 Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
 
